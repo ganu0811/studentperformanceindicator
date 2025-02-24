@@ -3,3 +3,7 @@ a) Setup.py - It is used to build the machine learning application or the projec
 
 b) Logging and Exception - Created own user friendly logging and custom exception handling functions
 
+
+
+The r2_score of the best model is 87.6%
+The r2_score of the best model after performing hyper parameter tuning is 87.9%
